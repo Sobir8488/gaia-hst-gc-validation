@@ -1,0 +1,4 @@
+Python check script
+
+The script scripts/check_csv_outputs.py uses only the Python standard library.
+It verifies row counts, cluster counts, principal residual statistics, and class counts for the archived CSV outputs.

@@ -1,0 +1,15 @@
+test_family,variant,n_bins,n_clusters,mean_delta_frac,rms_delta_frac,notes
+minimum_hst_bin_occupancy,baseline,680,56,-0.0028,0.1322,Sensitivity to the minimum number of HST stars per bin.
+minimum_hst_bin_occupancy,hst_nstars_ge_50,669,55,-0.0005,0.1299,Sensitivity to the minimum number of HST stars per bin.
+minimum_hst_bin_occupancy,hst_nstars_ge_100,607,44,0.0113,0.1181,Sensitivity to the minimum number of HST stars per bin.
+minimum_hst_bin_occupancy,hst_nstars_ge_150,394,26,0.0213,0.1071,Sensitivity to the minimum number of HST stars per bin.
+minimum_hst_bin_occupancy,hst_nstars_ge_200,254,14,0.0028,0.0985,Sensitivity to the minimum number of HST stars per bin.
+inner_radius_exclusion,baseline,680,56,-0.0028,0.1322,Sensitivity to removal of inner radial bins.
+inner_radius_exclusion,r_arcsec_ge_5,678,56,-0.0029,0.1324,Sensitivity to removal of inner radial bins.
+inner_radius_exclusion,r_arcsec_ge_10,660,56,-0.0071,0.1337,Sensitivity to removal of inner radial bins.
+inner_radius_exclusion,r_arcsec_ge_20,588,56,-0.0095,0.1364,Sensitivity to removal of inner radial bins.
+inner_radius_exclusion,r_arcsec_ge_30,491,56,-0.0116,0.1398,Sensitivity to removal of inner radial bins.
+inner_radius_exclusion,r_arcsec_ge_50,309,56,-0.0148,0.1493,Sensitivity to removal of inner radial bins.
+gaia_profile_interpolation,linear_radius,711,56,-0.004,0.1333,Sensitivity to Gaia-profile interpolation method.
+gaia_profile_interpolation,nearest_neighbour,711,56,-0.004,0.1335,Sensitivity to Gaia-profile interpolation method.
+gaia_profile_interpolation,log_linear_log1p_radius,711,56,-0.0045,0.1332,Sensitivity to Gaia-profile interpolation method.

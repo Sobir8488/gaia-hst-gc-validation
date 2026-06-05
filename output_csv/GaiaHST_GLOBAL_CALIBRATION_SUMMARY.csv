@@ -1,0 +1,2 @@
+n_matched_bins,n_clusters,global_mean_delta_frac,global_median_delta_frac,global_rms_delta_frac,global_redchi2_raw,quality_classes_present
+680,56,-0.0028462018294439,-0.0009776839914709,0.132241572067493,1.03556905354451,A_Gaia_HST_consistent;B_small_correction;C_correction_required;D_not_reliable_in_overlap

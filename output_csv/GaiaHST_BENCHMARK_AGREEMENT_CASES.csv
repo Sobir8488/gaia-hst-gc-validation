@@ -1,0 +1,9 @@
+cluster_id,n_matched_bins,mean_delta_frac,quality_class_short,quality_class
+NGC5986,17,-0.0007296746482782,A,A_Gaia_HST_consistent
+NGC6388,31,-0.0015790016713923,A,A_Gaia_HST_consistent
+NGC6584,5,0.0012813122646547,A,A_Gaia_HST_consistent
+NGC4833,11,0.0092587178233189,A,A_Gaia_HST_consistent
+NGC6715,16,0.0138772908695767,A,A_Gaia_HST_consistent
+NGC6656,15,-0.0154258906830042,A,A_Gaia_HST_consistent
+NGC6838,4,-0.0166127438776048,A,A_Gaia_HST_consistent
+NGC3201,5,-0.0128249623761044,A,A_Gaia_HST_consistent

@@ -1,0 +1,4 @@
+threshold_set,n_A,n_B,n_C,n_D,n_E,notes
+tight_80_percent_of_baseline_thresholds,31,13,8,4,0,All A/B/C/D residual and chi-square thresholds scaled to 0.8 of baseline values.
+baseline_thresholds,38,8,8,2,0,Baseline readiness-class thresholds used in the manuscript.
+relaxed_120_percent_of_baseline_thresholds,41,7,7,1,0,All A/B/C/D residual and chi-square thresholds scaled to 1.2 of baseline values.

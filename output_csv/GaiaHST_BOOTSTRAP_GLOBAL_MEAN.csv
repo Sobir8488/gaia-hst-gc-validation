@@ -1,0 +1,3 @@
+bootstrap_mode,p2_5,median,p97_5,interpretation
+bin_resampling,-0.0129,-0.0028,0.0073,Resamples the 680 matched radial bins directly.
+cluster_block_resampling,-0.0361,-0.0031,0.0312,Resamples the 56 clusters and preserves all matched bins within each selected cluster.

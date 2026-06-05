@@ -1,0 +1,5 @@
+data_layer,n_row,n_cluster,baseline_use,scientific_role
+Gaia EDR3 radial profiles,12625,125,yes,Wide-field PM-dispersion and rotation-profile layer used as the Gaia comparison product.
+HST/HACKS dispersion profiles,716,57,yes,Independent crowded-field PM-dispersion benchmark in the inner and intermediate radial range.
+Gaia-HST overlap sample,680,56,yes,Matched-bin validation set used for all baseline residual statistics and readiness classes.
+APOGEE GC summary,15,10,readiness only,Spectroscopic support indicator for future radial-velocity and chemical-abundance validation.

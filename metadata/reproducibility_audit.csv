@@ -1,0 +1,7 @@
+check_name,observed_value,expected_value,status
+matched_radial_bins,680,680,pass
+matched_clusters,56,56,pass
+global_mean_delta_frac,-0.002846,approximately -0.0028,pass
+global_median_delta_frac,-0.000978,approximately -0.0010,pass
+global_rms_delta_frac,0.132242,approximately 0.1322,pass
+class_counts,"{""A"": 38, ""B"": 8, ""C"": 8, ""D"": 2}","{""A"":38,""B"":8,""C"":8,""D"":2,""E"":0}",pass

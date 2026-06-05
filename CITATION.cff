@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this workflow or the archived output tables, please cite the Zenodo DOI for the corresponding GitHub release."
+title: "Gaia--HST validation workflow for globular-cluster proper-motion dispersion profiles"
+version: "1.0.0"
+date-released: "2026-06-05"
+type: software
+authors:
+  - family-names: "Turaev"
+    given-names: "S. J."
+    orcid: "https://orcid.org/0000-0002-4932-241X"
+  - family-names: "Nuritdinov"
+    given-names: "S. N."
+  - family-names: "Yuldosheva"
+    given-names: "Q. X."
+abstract: "MATLAB workflow and machine-readable tables for validating Gaia EDR3 globular-cluster proper-motion dispersion profiles against HST/HACKS profile-level dispersion measurements in their common radial domain."
+keywords:
+  - "Gaia EDR3"
+  - "HST"
+  - "HACKS"
+  - "globular clusters"
+  - "proper motions"
+  - "reproducible workflow"
+license: "MIT"

@@ -1,0 +1,2 @@
+object_id,object_type,present_in_files,included_in_gaia_hst_matched_validation,reason
+NGC6791,open_cluster,input/hacks_hst_dispersion_profiles.csv; input/hacks_hst_dispersion_summary.csv; output_csv/GaiaHST_DATA_LAYER_READINESS.csv,false,The manuscript analysis is restricted to Galactic globular clusters. NGC6791 is retained only as a source-layer record and has no matched Gaia--HST validation rows in the archived output.

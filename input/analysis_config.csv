@@ -1,0 +1,13 @@
+parameter,value,description
+minMatchedBins,3.0,minimum number of overlapping radial bins for cluster-level class
+minHSTStarsPerBin,30.0,minimum HST stars per bin for comparison
+useGaiaUncertaintyScale,1.0,apply fitted Gaia uncertainty scale/floor in classification
+defaultHSTSystematicFloor,0.0,optional mas/yr floor added to HST uncertainties
+defaultGaiaSystematicFloorGridMax,0.05,max mas/yr systematic floor scanned per cluster
+defaultGaiaScaleGridMax,2.5,max multiplicative Gaia scale scanned per cluster
+bootstrapN,1000.0,bootstrap iterations for cluster-level residual means
+randomSeed,42.0,reproducible random seed
+classA_absBiasMax,0.1,quality class A max absolute fractional bias
+classB_absBiasMax,0.2,quality class B max absolute fractional bias
+classA_chi2Max,1.5,quality class A max reduced chi2
+classB_chi2Max,2.5,quality class B max reduced chi2

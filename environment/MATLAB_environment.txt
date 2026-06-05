@@ -1,0 +1,6 @@
+MATLAB environment
+
+The workflow is implemented in MATLAB source files under src/ and scripts/.
+Required core MATLAB functions include readtable, writetable, table, fullfile, interp1, histogram, scatter, errorbar, and exportgraphics.
+No non-base MATLAB toolbox is intentionally required by the release scripts.
+Record the exact MATLAB version used for a published run in logs/MATLAB_VERSION_USED.txt before final archiving.

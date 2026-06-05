@@ -1,0 +1,6 @@
+quality_class,n_clusters,quality_class_short,fraction_percent
+A_Gaia_HST_consistent,38,A,67.85714285714286
+B_small_correction,8,B,14.285714285714285
+C_correction_required,8,C,14.285714285714285
+D_not_reliable_in_overlap,2,D,3.571428571428571
+E_insufficient_overlap,0,E,0.0
