@@ -10,7 +10,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-4932-241X"
   - family-names: "Nuritdinov"
     given-names: "S. N."
-  - family-names: "Yuldosheva"
+  - family-names: "Yuldoshev"
     given-names: "Q. X."
 abstract: "MATLAB workflow and machine-readable tables for validating Gaia EDR3 globular-cluster proper-motion dispersion profiles against HST/HACKS profile-level dispersion measurements in their common radial domain."
 keywords:
