@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this workflow or the archived output tables, please cite the Zenodo DOI for the corresponding GitHub release."
 title: "Gaia--HST validation workflow for globular-cluster proper-motion dispersion profiles"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-06-05"
 type: software
 authors:
