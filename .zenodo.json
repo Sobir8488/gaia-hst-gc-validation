@@ -1,0 +1,39 @@
+{
+  "title": "Gaia--HST validation workflow for globular-cluster proper-motion dispersion profiles",
+  "upload_type": "software",
+  "description": "Open MATLAB workflow, input tables, archived output CSV files, and metadata for validating Gaia EDR3 and HST/HACKS proper-motion dispersion profiles of Galactic globular clusters in their common radial domain.",
+  "creators": [
+    {
+      "name": "Turaev, S. J.",
+      "affiliation": "Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences"
+    },
+    {
+      "name": "Nuritdinov, S. N.",
+      "affiliation": "National University of Uzbekistan named after Mirzo Ulugbek"
+    },
+    {
+      "name": "Yuldosheva, Q. X.",
+      "affiliation": "Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "Gaia EDR3",
+    "HST",
+    "HACKS",
+    "globular clusters",
+    "proper motions",
+    "internal kinematics",
+    "MATLAB",
+    "reproducible workflow"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Sobir8488/gaia-hst-gc-validation",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "communities": []
+}
